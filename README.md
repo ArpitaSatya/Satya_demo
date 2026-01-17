@@ -1,4 +1,4 @@
 # Satya_demo
 This is my first Git repository.
 <br>
-Author - Arpita Satya
+Author - Arpita Satya(Student)
